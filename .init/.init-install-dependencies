@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/collaborative-calendar-1993-2002/calendar_frontend"
+}
